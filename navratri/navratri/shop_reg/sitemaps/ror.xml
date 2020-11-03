@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://specialshopoffers.tk/</title>
+  <link>http://specialshopoffers.tk/</link>
+
+<item>
+     <link>http://specialshopoffers.tk/navratri/</link>
+     <title>Shop Advertise Special For Navratri</title>
+     <description>Navrati special offers For small business </description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://specialshopoffers.tk/navratri/shop_reg/index.php</link>
+     <title>Shop Advertise Special For Navratri</title>
+     <description>Register Your shop for advertise</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://specialshopoffers.tk/navratri/shop_reg/</link>
+     <title>Shop Advertise Special For Navratri</title>
+     <description>Register Your shop for advertise</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
